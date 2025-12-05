@@ -9,7 +9,7 @@ function App() {
             <h1 className="hero-name">Apeksha Mishra</h1>
           </div>
           <div className="hero-image">
-            <img src="/apeksha_resume/img/hero_section.jpeg" alt="Hero" />
+            <img src="/apeksha_resume/img/hero_section.png" alt="Hero" />
           </div>
         </div>
       </section>
