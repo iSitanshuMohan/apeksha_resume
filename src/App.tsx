@@ -26,6 +26,16 @@ function App() {
         </div>
       </section>
 
+      <section className="internships">
+        <div className="internships-container">
+          <h2 className="internships-title">Internships</h2>
+          <ul className="internships-list">
+            <li className="internship-item">Industrial Training at MMG Healthcare Sirmaur (H.P.) for 30 days</li>
+            <li className="internship-item">Hospital Training at Community Health Center Aliganj Lucknow (U.P) for 45 days</li>
+          </ul>
+        </div>
+      </section>
+
       <section className="contact">
         <div className="contact-container">
           <h2 className="contact-title">Contact Me</h2>
