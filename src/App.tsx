@@ -14,23 +14,17 @@ function App() {
         </div>
       </section>
 
-      <div className="separator"></div>
-
       <section className="about">
         <div className="about-container">
           <h2 className="about-title">About Me</h2>
-          <div className="about-box">
-            <p className="about-text">
-              I am a dedicated and enthusiastic individual with a strong ability to adapt to challenging situations. 
-              I possess significant skills in managing and resolving critical issues effectively. 
-              I am seeking a position within an organization where I can apply my knowledge, contribute to team success, 
-              and continue to learn and grow professionally.
-            </p>
-          </div>
+          <p className="about-text">
+            I am a dedicated and enthusiastic individual with a strong ability to adapt to challenging situations. 
+            I possess significant skills in managing and resolving critical issues effectively. 
+            I am seeking a position within an organization where I can apply my knowledge, contribute to team success, 
+            and continue to learn and grow professionally.
+          </p>
         </div>
       </section>
-
-      <div className="separator"></div>
 
       <section className="contact">
         <div className="contact-container">
